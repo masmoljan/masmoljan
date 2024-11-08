@@ -22,9 +22,8 @@ such as NodeJS, REST APIs, and databases such as MongoDB and SQL.</h4>
   <img src="https://github.com/devicons/devicon/blob/master/icons/swagger/swagger-original.svg" title="Swagger" alt="swagger" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/typescript/typescript-original.svg" title="TypeScript" alt="ts" width="40" height="40"/>&nbsp;
   <img src="https://github.com/devicons/devicon/blob/master/icons/vite/vite-original.svg" title="Vite" alt="vite" width="40" height="40"/>&nbsp;
+</div>
 
-
-<div>
 # 📊 GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=masmoljan&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://github-readme-streak-stats.herokuapp.com/?user=masmoljan&theme=tokyonight&hide_border=false)<br/>
@@ -32,3 +31,5 @@ such as NodeJS, REST APIs, and databases such as MongoDB and SQL.</h4>
 
 ---
 [![](https://visitcount.itsvg.in/api?id=masmoljan&icon=0&color=12)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
